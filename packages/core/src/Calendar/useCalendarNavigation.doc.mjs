@@ -111,7 +111,7 @@ export const docs = {
       {
         guidance: true,
         description:
-          'Wire navigateMonth(-1) and navigateMonth(1) to Previous/Next icon buttons to paginate months.',
+          'Wire navigateMonth(-1) and navigateMonth(1) to Previous/Next buttons to paginate months.',
       },
       {
         guidance: true,
